@@ -1,2 +1,2 @@
-# Shubham1
+# Shubham
 This is my first git repository.
